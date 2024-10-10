@@ -20,4 +20,4 @@
 ### • Answered queries from Investors who were in syndicated deals
 ### • Liaised with Relationship Managers for consent of non-standard requests
 ## <span style="color:#2ECC71;"> Across the Internet </span>
-## **GitHub** [github.com/char1874] (https:\\\\github.com/char1974)
+### **GitHub** [github.com/char1874] (https:\\\\github.com/char1874)
