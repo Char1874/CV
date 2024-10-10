@@ -21,5 +21,5 @@
 ### • Dealt with Client requests for the lifecycle of their loans
 ### • Answered queries from Investors who were in syndicated deals
 ### • Liaised with Relationship Managers for consent of non-standard requests
-## <font color ="green"> Across the Internet </span>
+## <span style="color:#2ECC71;"> Across the Internet </span>
 ## **GitHub:** [github.com/char1874](https:\\\\github.com/char1874)
